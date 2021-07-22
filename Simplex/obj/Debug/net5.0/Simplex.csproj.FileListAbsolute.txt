@@ -1,0 +1,16 @@
+D:\uni\KI\Simplex\Simplex\bin\Debug\net5.0\Simplex.exe
+D:\uni\KI\Simplex\Simplex\bin\Debug\net5.0\Simplex.deps.json
+D:\uni\KI\Simplex\Simplex\bin\Debug\net5.0\Simplex.runtimeconfig.json
+D:\uni\KI\Simplex\Simplex\bin\Debug\net5.0\Simplex.runtimeconfig.dev.json
+D:\uni\KI\Simplex\Simplex\bin\Debug\net5.0\Simplex.dll
+D:\uni\KI\Simplex\Simplex\bin\Debug\net5.0\ref\Simplex.dll
+D:\uni\KI\Simplex\Simplex\bin\Debug\net5.0\Simplex.pdb
+D:\uni\KI\Simplex\Simplex\obj\Debug\net5.0\Simplex.csproj.AssemblyReference.cache
+D:\uni\KI\Simplex\Simplex\obj\Debug\net5.0\Simplex.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\KI\Simplex\Simplex\obj\Debug\net5.0\Simplex.AssemblyInfoInputs.cache
+D:\uni\KI\Simplex\Simplex\obj\Debug\net5.0\Simplex.AssemblyInfo.cs
+D:\uni\KI\Simplex\Simplex\obj\Debug\net5.0\Simplex.csproj.CoreCompileInputs.cache
+D:\uni\KI\Simplex\Simplex\obj\Debug\net5.0\Simplex.dll
+D:\uni\KI\Simplex\Simplex\obj\Debug\net5.0\ref\Simplex.dll
+D:\uni\KI\Simplex\Simplex\obj\Debug\net5.0\Simplex.pdb
+D:\uni\KI\Simplex\Simplex\obj\Debug\net5.0\Simplex.genruntimeconfig.cache
