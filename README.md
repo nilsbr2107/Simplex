@@ -1,7 +1,5 @@
 # Simplex
  KI_Pruefung<br>
- Name: Nils Brandscheidt<br>
- Martikelnummer:1170064<br>
  Betriebssystem: Windows 10 (64 Bit)<br>
  
  
